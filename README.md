@@ -16,8 +16,8 @@ Spotify Redesigned is a React Native application that showcases a fresh and inno
 ## Getting Started
 
 1. Clone this repository.
-2. Install dependencies using `pnpm install`.
-3. Run the app with `pnpm run start`.
+2. Install dependencies using `npm install`.
+3. Run the app with `npm run start`.
 
 ## Git Workflow
 
@@ -46,4 +46,3 @@ This project is inspired by the Spotify redesign case study created by [Sawai Su
 This project is licensed under the [MIT License](LICENSE).
 
 Enjoy exploring the new Spotify Redesigned UI!
-
